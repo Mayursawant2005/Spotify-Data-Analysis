@@ -29,16 +29,18 @@ Analyze Spotify track data using **MySQL** to explore trends, top tracks, artist
 ## 📝 SQL Queries Included
 This project answers **10 important questions** about the Spotify dataset:
 
-1. **Total Tracks** – Count all tracks in the dataset  
-2. **Distinct Artists** – Count unique artists  
-3. **Explicit Tracks** – Count tracks marked as explicit  
-4. **Tracks by Artist** – Filter tracks by a specific artist  
-5. **Tracks Released Before a Year** – e.g., before 2010  
-6. **Top 5 Tracks by Streams** – Highest streamed tracks  
-7. **Tracks Longer than a Duration** – e.g., duration > 5 minutes  
-8. **Tracks Released in a Specific Year** – e.g., 2020  
+1. **Songs with more than 500 million Spotify streams**   
+2. **Tracks that are not explicit**
+3. **Tracks with Track Score between 400 and 700** 
+4. **Tracks containing the word “Love” in their name** 
+5. **Songs by 'Drake', 'Adele', or 'Beyoncé'**
+6. **Find all tracks that have more than 10 million TikTok posts but less than 300 million Spotify streams.** 
+7. **Tracks with available YouTube Likes** 
+8. **Tracks released in the year 2023** 
 9. **Tracks with >300M Streams AND Explicit**  
 10. **Tracks Not by 'Taylor Swift' or 'Ed Sheeran' Containing “Night”**
+
+
 
 > All SQL queries are included in `spotify_queries.sql`.
 
@@ -46,11 +48,11 @@ This project answers **10 important questions** about the Spotify dataset:
 
 ## 📁 Repository Structure
 
-Spotify-Data-Analysis/
-│
-├── spotify_data.csv # Original dataset
-├── spotify_queries.sql # SQL queries for analysis
-└── README.md # Project description
+- Spotify-Data-Analysis/
+- │
+- ├── spotify_data.csv # Original dataset
+- ├── spotify_queries.sql # SQL queries for analysis
+- └── README.md # Project description
 
 
 ---
@@ -72,8 +74,7 @@ Spotify-Data-Analysis/
 
 ## 🔗 Author
 **Pavan Ahire**  
-- GitHub: []  
-- Email: [Optional]
+- GitHub: https://github.com/pavan-ahire
 
 ---
 
