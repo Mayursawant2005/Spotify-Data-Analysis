@@ -7,13 +7,39 @@ Analyze Spotify track data using **MySQL** to explore trends, top tracks, artist
 ## 📂 Dataset
 - Source: Spotify dataset (CSV/Excel file)  
 - Key columns include:
-  - **Track Name** – Name of the song
-  - **Artist** – Performing artist(s)
-  - **Spotify Streams** – Number of streams
-  - **Explicit Track** – Explicit content flag
-  - **Release Year** – Year of release
-  - **Duration** – Length of the track
-  - **Genres / Categories** – Track categories
+  ## 📝 Columns in Dataset
+
+| #  | Column Name                    |
+|----|--------------------------------|
+| 1  | Track                          |
+| 2  | Album Name                     |
+| 3  | Artist                         |
+| 4  | Release Date                   |
+| 5  | ISRC                           |
+| 6  | All Time Rank                  |
+| 7  | Track Score                    |
+| 8  | Spotify Streams                |
+| 9  | Spotify Playlist Count         |
+| 10 | Spotify Playlist Reach         |
+| 11 | Spotify Popularity             |
+| 12 | YouTube Views                  |
+| 13 | YouTube Likes                  |
+| 14 | TikTok Posts                   |
+| 15 | TikTok Likes                   |
+| 16 | TikTok Views                   |
+| 17 | YouTube Playlist Reach         |
+| 18 | Apple Music Playlist Count     |
+| 19 | AirPlay Spins                  |
+| 20 | SiriusXM Spins                 |
+| 21 | Deezer Playlist Count          |
+| 22 | Deezer Playlist Reach          |
+| 23 | Amazon Playlist Count          |
+| 24 | Pandora Streams                |
+| 25 | Pandora Track Stations         |
+| 26 | Soundcloud Streams             |
+| 27 | Shazam Counts                  |
+| 28 | Explicit Track                 |
+---------------------------------------
 
 ---
 
