@@ -39,7 +39,6 @@ Analyze Spotify track data using **MySQL** to explore trends, top tracks, artist
 | 26 | Soundcloud Streams             |
 | 27 | Shazam Counts                  |
 | 28 | Explicit Track                 |
----------------------------------------
 
 ---
 
