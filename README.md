@@ -45,3 +45,37 @@ This project answers **10 important questions** about the Spotify dataset:
 ---
 
 ## 📁 Repository Structure
+
+Spotify-Data-Analysis/
+│
+├── spotify_data.csv # Original dataset
+├── spotify_queries.sql # SQL queries for analysis
+└── README.md # Project description
+
+
+---
+
+## 🚀 How to Use
+1. **Import Data**: Load `spotify_data.csv` into MySQL Workbench.  
+2. **Run Queries**: Execute `spotify_queries.sql` to see results.  
+3. **Modify Queries**: Adjust filters or add new queries to explore more insights.  
+
+---
+
+## 💡 Key Learning Outcomes
+- SQL table creation and data import  
+- Data filtering, aggregation, and sorting  
+- Analytical skills on music streaming data  
+- Handling numerical and categorical data in SQL
+
+---
+
+## 🔗 Author
+**Pavan Ahire**  
+- GitHub: []  
+- Email: [Optional]
+
+---
+
+> “Music data meets SQL—analyzing trends, streams, and artists like a pro!” 🎶
+
