@@ -98,7 +98,7 @@ This project answers **10 important questions** about the Spotify dataset:
 ---
 
 ## 🔗 Author
-**Pavan Ahire**  
+**Mayur Sawant**
 - GitHub: https://github.com/pavan-ahire
 
 ---
