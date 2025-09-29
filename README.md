@@ -99,7 +99,7 @@ This project answers **10 important questions** about the Spotify dataset:
 
 ## 🔗 Author
 **Mayur Sawant**
-- GitHub: https://github.com/pavan-ahire
+- GitHub: https://github.com/Mayursawant2005
 
 ---
 
